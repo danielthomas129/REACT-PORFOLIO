@@ -41,3 +41,11 @@ You will also see any lint errors in the console.
 - - -
 
 ### Daniel Thomas Guadalupe
+## Questions?
+  
+  ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/74033385?v=4) 
+  
+  For any questions, please contact me with the information below:
+ 
+  GitHub: [@danielthomas129](https://api.github.com/users/danielthomas129)
+
